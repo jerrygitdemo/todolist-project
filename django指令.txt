@@ -16,3 +16,5 @@ python manage.py migrate
 
 5.建立超級使用者
 python manage.py createsuperuser
+
+
